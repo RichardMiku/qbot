@@ -1,0 +1,24 @@
+uvicorn
+nonebot2
+nonebot2[fastapi]
+nonebot2[httpx]
+nonebot2[websockets]
+# aiohttp
+nonebot-adapter-satori
+# nonebot-adapter-red
+beautifulsoup4
+lxml
+PyExecJS
+pymysql-pool
+langchain~=0.1.17
+langchain-openai
+zhipuai
+pymilvus~=2.4.1
+# xpinyin
+nonebot-plugin-apscheduler
+opencv-python
+Pillow
+aiocache
+httpx~=0.27.0
+PyYAML~=6.0.1
+qrcode
